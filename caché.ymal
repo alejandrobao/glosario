@@ -1,0 +1,26 @@
+title: 'Caché'
+date: '2024-09-10'
+active: true
+image: 'https://img.freepik.com/free-vector/computer-memory-illustration_23-2148765432.jpg'
+creator: 'Ángel González'
+category: 'tecnología'
+tags:
+    - 'hardware'
+    - 'memoria'
+    - 'rendimiento'
+    - 'procesadores'
+synonyms:
+    - memoria intermedia
+    - memoria temporal
+    - buffer de datos
+translation: 'Cache'
+phrase: 'La caché mejora el rendimiento al almacenar datos usados con frecuencia.'
+difficulty: 'básico'
+status: 'estable'
+language: 'es'
+related:
+    - 'RAM'
+    - 'CPU'
+    - 'rendimiento del sistema'
+source: 'https://es.wikipedia.org/wiki/Caché'
+definition: 'Memoria de acceso rápido que almacena datos de forma temporal para acelerar el acceso posterior. Se ubica entre el procesador (CPU) y la memoria principal (RAM) para optimizar el intercambio de datos.'
